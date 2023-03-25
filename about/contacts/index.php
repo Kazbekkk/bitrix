@@ -3,7 +3,7 @@ $APPLICATION->SetTitle("Задайте вопрос");
 ?>
 
 	<p>
-		<b>Телефон:</b> 8 (495) 212 85 06<br>
+		<b>Телефон:</b> 8 (965) 020 03 01<br>
 		<b>Адрес:</b> г. Москва, ул. 2-я Хуторская, д. 38
 	</p>
 	<div class="mb-2 embed-responsive embed-responsive-16by9">
